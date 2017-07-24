@@ -1,0 +1,1 @@
+<?php include('includes/partials/index.php'); ?>
